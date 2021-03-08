@@ -39,6 +39,7 @@ section{
 .profile{
 
     padding-bottom:30px;
+    border-bottom: 1px solid #ddd;
 }
 span{color: hsl(0, 0%, 59%);}
 
